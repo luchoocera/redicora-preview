@@ -14,6 +14,6 @@ La dirección prevista después de publicar es https://luchoocera.github.io/redi
 
 ## Recursos
 
-Esta versión incluye el visor 3D de la lámpara telescópica de Despliegue compacto. Los archivos servidos por la web, incluido el GLB, son públicos y descargables.
+Esta versión incluye los visores 3D de la lámpara telescópica, el quemador y el kettle con selector para explorar el PourOver por separado. Los cuatro archivos GLB y los demás recursos servidos por la web son públicos y descargables.
 
 Las fuentes y bibliotecas conservan sus avisos y licencias en `site/assets/fonts/` y `site/assets/licenses/`. Esas licencias corresponden a dichos recursos; no otorgan una licencia general sobre los diseños de productos o la identidad del estudio.
