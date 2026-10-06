@@ -1,0 +1,31 @@
+REDICORA — Adaptación tipográfica de la web, 2026-10-03
+
+TeX Gyre Heros Regular y Bold, versión 2.004.
+Autores/mantenedores: Bogusław Jackowski y Janusz Marian Nowacki.
+Basada en URW Nimbus Sans L. No es la edición comercial exacta de Nimbus Sans.
+
+Origen de los archivos: CTAN, espejo MIT verificado en https://ctan.org/mirrors
+https://mirrors.mit.edu/CTAN/fonts/tex-gyre/opentype/texgyreheros-regular.otf
+https://mirrors.mit.edu/CTAN/fonts/tex-gyre/opentype/texgyreheros-bold.otf
+
+Licencia de la fuente: GUST Font License incluida por la colección
+(texto de 2006-09-30), basada en LPPL 1.3c o posterior.
+Se incluyen GUST-FONT-LICENSE.txt, LPPL.txt y el manifiesto original de Heros.
+Los términos permiten uso/distribución sin compra; se conservan los avisos
+y condiciones de la licencia. La licencia de la fuente no se aplica a las
+partes independientes de la web.
+
+Esta selección contiene dos archivos OTF originales de la colección.
+No se alteraron las fuentes, nombres internos, contornos ni caracteres;
+no se convirtieron o recortaron. La selección parcial y la integración web
+son trabajo local de Codex para REDICORA. Los autores de las fuentes no proveen
+soporte ni avalan esta web o su selección tipográfica.
+
+Colección completa y sin modificaciones:
+https://mirrors.mit.edu/CTAN/fonts/tex-gyre.zip
+https://ctan.org/pkg/tex-gyre
+Manifiesto: MANIFEST-TeX-Gyre-Heros.txt
+Información de la familia: https://ctan.org/pkg/tex-gyre-heros
+
+Uso en la web: alternativa gratuita aprobada por Luciano para esta adaptación web; títulos Bold y cuerpo Regular.
+La guía de identidad REDICORA y los archivos originales no se modifican.

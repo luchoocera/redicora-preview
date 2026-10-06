@@ -1,0 +1,3 @@
+# Preserve reviewed build bytes on every platform; keep repository metadata in LF.
+* text=auto eol=lf
+site/** -text
